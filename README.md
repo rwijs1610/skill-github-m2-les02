@@ -25,3 +25,6 @@ Ga naar **Settings > Pages** om de site live te publiceren.
 Rens
 Marcus
 Deon
+Maxim 
+Kyano
+Ian
